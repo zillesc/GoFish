@@ -37,7 +37,7 @@ public class CardTest {
 
     @Test
     public void checkNames() throws Exception {
-        assertEquals("7 of CLUBS", card.getCardName());
-        assertEquals("7C", card.getShortName());
+        assertEquals("8 of CLUBS", card.getCardName());
+        assertEquals("8C", card.getShortName());
     }
 }
